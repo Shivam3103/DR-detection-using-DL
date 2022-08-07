@@ -4,6 +4,8 @@ Diabetic Retinopathy is a disease with an increasing prevalence and the main cau
 
 DATASET:
 APOTS Kaggle Blindness dataset
+
+
 SOLUTION :
 I am proposing Deep Learning classification technique using CNN pretrained model resnet152 to classify severity levels of DR ranging from 0 (NO DR) to 4 (Proliferative DR).
 This is a collaborative project of team of three where my main work is on developing, training and testing various CNN models along with some secondary work. Deep learning looks promising because already various types of image classification tasks has been performed by various CNN's so, we can rely on DL pretrained models or we can modify some layers if we wish to :)
